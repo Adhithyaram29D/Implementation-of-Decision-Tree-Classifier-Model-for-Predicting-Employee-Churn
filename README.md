@@ -8,7 +8,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import pandas
+1. Import pandas
 2. Import Decision tree classifier
 3. Fit the data in the model
 4. Find the accuracy score
@@ -50,7 +50,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
 #### data.head():
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393540/2930807a-1e18-460b-9adc-ce2935c6318c" width="400">
+<img src = "https://github.com/Adhithyaram29D/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393540/2930807a-1e18-460b-9adc-ce2935c6318c" width="600">
 
 #### data.info():
 <img src = "https://github.com/Adhithyaram29D/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393540/33512a36-aced-42fe-8a2c-7b7d3cfc31e7" width="200">
@@ -62,13 +62,13 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ![image](https://github.com/Adhithyaram29D/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393540/5961c484-d9e4-491f-a314-32a0f4f83615)
 
 #### Label Encoding for String values:
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393540/b1200645-3fda-43ff-8b6f-4761611caf72" width="400">
+<img src = "https://github.com/Adhithyaram29D/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393540/b1200645-3fda-43ff-8b6f-4761611caf72" width="600">
 
 #### x.head():
-![image](https://github.com/Adhithyaram29D/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393540/99ba5131-7eaa-4951-b2ff-17fac8b62287)
+<img src = "https://github.com/Adhithyaram29D/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393540/99ba5131-7eaa-4951-b2ff-17fac8b62287" width="600">
 
 #### Accuracy: 
-![image](https://github.com/Adhithyaram29D/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393540/3e898087-a5d2-4710-9b3b-4f04f336c160)
+<img src = "https://github.com/Adhithyaram29D/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393540/3e898087-a5d2-4710-9b3b-4f04f336c160" width="200">
 
 #### Prediction:
 ![image](https://github.com/Adhithyaram29D/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/119393540/baa8b032-fd61-4a11-8f61-86ab42d1a97a)
